@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Models/.vs/Models/v16
+/Models/Application/bin/Debug/net5.0
+/Models/Application/obj
+/Models/Domain/bin/Debug/net5.0
+/Models/Domain/obj
+/Models/EFCore.Repositories/bin/Debug/net5.0
+/Models/EFCore.Repositories/obj
